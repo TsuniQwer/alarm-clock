@@ -1,2 +1,0 @@
-# alarm-clock
-wake up!
